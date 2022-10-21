@@ -1,0 +1,46 @@
+div{
+    margin: auto;
+    margin-top: 50px;
+    border: 5px dotted pink;
+    padding: auto;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+
+.Bold {
+    color: pink;
+    font-size: 50px;
+    letter-spacing: 0px;
+    font-style: 'Times New Roman', Times, serif;
+}
+.p1{
+    letter-spacing: 10px;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: pink;
+}
+.header{
+    text-align: center;
+}
+.hr2{
+    border-top:3px solid;
+    width: 800px;
+}
+.p2{
+    word-spacing: 90px;
+    font-size: 25px;
+}
+.hr3{
+    width: 800px;
+    }
+img{
+    padding-top: 10px;
+
+}
+.p3{
+    text-align: center;
+    font-family: 'Times New Roman', times, serif;
+    padding-right:100px ;
+    padding-left: 100px;
+}
